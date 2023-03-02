@@ -16,7 +16,7 @@
     {"url": "heroku/python"}
   ],
   "formation": {
-    "web": {
+    "Eco": {
       "quantity": 1,
       "size": "Eco"
     }
